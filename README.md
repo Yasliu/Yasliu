@@ -44,7 +44,7 @@ I’m a Metalhead with a collection of 3 guitars, but my coding style is strictl
 ---
 
 ### ⌨️ My Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Yasliu/Yasliu/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/Yasliu/Yasliu/output/github-contribution-grid-snake.svg)
 
 <!--
 **Yasliu/Yasliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
