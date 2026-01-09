@@ -14,13 +14,6 @@ I'm a Computer Science student currently balancing the structured world of **Jav
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 </p>
 
-### 🏆 GitHub Milestones
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yasliu&theme=darkhub&no-bg=true&column=4" alt="Yasin's Trophies" />
-</p>
-
----
-
 ### 🛠 What I'm Up To
 - 🔭 **Currently Working On:** Expanding my portfolio with software engineering and AI-driven projects.
 - 🌱 **Learning Journey:** Parallel-tracking Java for core logic and Python for AI integration.
