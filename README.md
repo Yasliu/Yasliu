@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="banner2.jpg" width="100%" alt="Yasin's Banner" />
+</p>
+
 # Hi there, I'm Yasin! 👋
 
 ### 🚀 CS Student & Aspiring AI Developer
