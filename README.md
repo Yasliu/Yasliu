@@ -57,17 +57,6 @@ I'm a Computer Science student currently balancing the structured world of **Jav
 </p>
 
 
-### ⚡ Fun Fact
-I’m a Metalhead with a collection of 3 guitars, but my coding style is strictly Soft Rock—smooth, steady, and easy to follow.
-
-🎸 Been listening to:
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u0cgiigz5bsppr3nntscy4uc9)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
-</p>
-
 ### ⌨️ My Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/Yasliu/Yasliu/output/github-contribution-grid-snake.svg)
 <p align="center">
